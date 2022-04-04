@@ -15,6 +15,10 @@
 - Asynchronous Javascript - Promises, Async/await, AJAX
 - Mordern Javascript - Modules, Tooling and Functional
 
+## Important links
+- https://github.com/jonasschmedtmann/complete-javascript-course
+- 
+
 # Java Script Tutorials
 
 ## 1. [Introduction](https://github.com/siba-x-prasad/JSWorld/blob/main/readMe/1.introduction.md)
